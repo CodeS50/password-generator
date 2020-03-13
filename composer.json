@@ -1,0 +1,28 @@
+{
+    "name": "codes50/password-generator",
+    "description": "PHP password generator (basic, medium, complex mode)",
+    "homepage": "https://github.com/CodeS50/password-generator",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1"
+    },
+    "authors": [
+        {
+            "name": "Kadir Yolalan",
+            "email": "kadiryolalan@gmail.com",
+            "homepage": "https://github.com/CodeS50",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Codes50\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Codes50\\": "tests/"
+        }
+    }
+}
