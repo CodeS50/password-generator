@@ -1,4 +1,4 @@
-# PHP Validation Service
+# PHP Password Generator
 
 [![Latest Version](https://img.shields.io/packagist/v/codes50/password-generator.svg?style=flat-square)](https://packagist.org/packages/codes50/password-generator)
 [![Packagist](https://img.shields.io/packagist/dm/codes50/password-generator.svg)](https://packagist.org/packages/codes50/password-generator)
